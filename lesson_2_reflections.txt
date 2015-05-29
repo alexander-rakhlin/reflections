@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates .git directory. Why? ......
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows adding files gradually
+
+
