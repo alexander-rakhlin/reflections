@@ -16,3 +16,11 @@ clones - clones locally or from GitHub
 branches - locally, no clones
 
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Allows to combine conflicting changes from multiple people
+
+
+
+
